@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+//component
+ChildComp.js
+Hello.js
+Hi.js
+MyClassComp.js
+StudentInfo.js
+WithOutJsx.js
